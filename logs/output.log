@@ -1,0 +1,34 @@
+2022-08-23 14:12:47.560 INFO  taxi.web.filter.AuthenticationFilter - doFilter method redirect Params: driverId = null
+2022-08-23 14:12:47.560 INFO  taxi.web.filter.AuthenticationFilter - doFilter method redirect Params: driverId = null
+2022-08-23 14:12:47.649 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = null
+2022-08-23 14:12:47.649 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = null
+2022-08-23 14:12:47.651 INFO  taxi.controller.LoginController - method doGet was called
+2022-08-23 14:12:47.651 INFO  taxi.controller.LoginController - method doGet was called
+2022-08-23 14:12:55.700 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = null
+2022-08-23 14:12:55.700 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = null
+2022-08-23 14:12:55.705 INFO  taxi.util.ConnectionUtil - start getConnection method Params: username = sql11514093, password OK
+2022-08-23 14:12:55.705 INFO  taxi.util.ConnectionUtil - start getConnection method Params: username = sql11514093, password OK
+2022-08-23 14:12:55.706 INFO  taxi.util.ConnectionUtil - connection established
+2022-08-23 14:12:55.706 INFO  taxi.util.ConnectionUtil - connection established
+2022-08-23 14:12:56.551 INFO  taxi.dao.DriverDaoImpl - find driver by login method successfully Params: login = ara, driver = Driver{id=4, name='Armen', licenseNumber='UA1704S07', login='ara'}
+2022-08-23 14:12:56.551 INFO  taxi.dao.DriverDaoImpl - find driver by login method successfully Params: login = ara, driver = Driver{id=4, name='Armen', licenseNumber='UA1704S07', login='ara'}
+2022-08-23 14:12:56.649 INFO  taxi.service.DriverService - driver authenticated successfully Params: login = ara, password OK
+2022-08-23 14:12:56.649 INFO  taxi.service.DriverService - driver authenticated successfully Params: login = ara, password OK
+2022-08-23 14:12:56.663 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = 4
+2022-08-23 14:12:56.663 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = 4
+2022-08-23 14:13:00.928 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = 4
+2022-08-23 14:13:00.928 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = 4
+2022-08-23 14:13:00.928 INFO  taxi.util.ConnectionUtil - start getConnection method Params: username = sql11514093, password OK
+2022-08-23 14:13:00.928 INFO  taxi.util.ConnectionUtil - start getConnection method Params: username = sql11514093, password OK
+2022-08-23 14:13:00.929 INFO  taxi.util.ConnectionUtil - connection established
+2022-08-23 14:13:00.929 INFO  taxi.util.ConnectionUtil - connection established
+2022-08-23 14:13:01.274 INFO  taxi.dao.ManufacturerDaoImpl - get all manufacturers successfully
+2022-08-23 14:13:01.274 INFO  taxi.dao.ManufacturerDaoImpl - get all manufacturers successfully
+2022-08-23 14:13:01.282 INFO  taxi.controller.car.AddCarController - list of manufacturers complete
+2022-08-23 14:13:01.282 INFO  taxi.controller.car.AddCarController - list of manufacturers complete
+2022-08-24 17:50:09.209 INFO  taxi.web.filter.AuthenticationFilter - doFilter method redirect Params: driverId = null
+2022-08-24 17:50:09.209 INFO  taxi.web.filter.AuthenticationFilter - doFilter method redirect Params: driverId = null
+2022-08-24 17:50:09.474 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = null
+2022-08-24 17:50:09.474 INFO  taxi.web.filter.AuthenticationFilter - doFilter method works Params: driverId = null
+2022-08-24 17:50:09.483 INFO  taxi.controller.LoginController - method doGet was called
+2022-08-24 17:50:09.483 INFO  taxi.controller.LoginController - method doGet was called
